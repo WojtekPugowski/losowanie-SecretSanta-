@@ -143,4 +143,4 @@ python3 -m unittest discover -s tests -v
 
 [MIT](LICENSE): otwarta licencja. Możesz używać, kopiować, modyfikować i rozpowszechniać kod (także komercyjnie), pod warunkiem zachowania informacji o autorze.
 
-Autor: Wojtek
+Autor: WojtekPugowski
